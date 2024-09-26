@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, hello, hello! 👋
 
-<!--
-**gsaegom/gsaegom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Guillermo (he/they), and I'm all about data science and software development.
 
-Here are some ideas to get you started:
+## Main Languages & Tools 👨‍💻 🛠 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java, Python, Angular, Microsoft Azure, Google Cloud, JetBrains, R, Docker, Tableau, PyTorch
+
+## About Me 
+
+💻☕ Currently working as a Java developer for a multinational insurance company
+🤓 Always looking to learn new things and participate in cool projects! 
+📍 Based in Barcelona, Spain
+📖🎧 Also a translator and conference interpreter
+💬 English, Spanish, French, Catalan, Dutch, Czech
+🎶🦆 Oboe player
+🍺 Beer aficionado
