@@ -6,7 +6,7 @@ My name is Guillermo (he/they), and I'm all about data science and software deve
 
 Java, Python, Angular, Microsoft Azure, Google Cloud, JetBrains, R, Docker, Tableau, PyTorch
 
-## About Me 
+## About Me 🧔🏽
 
 💻☕ Currently working as a Java developer for a multinational insurance company  
 🤓 Always looking to learn new things and participate in cool projects!  
