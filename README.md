@@ -8,7 +8,7 @@ Java, Python, Angular, Microsoft Azure, Google Cloud, JetBrains, R, Docker, Tabl
 
 ## About Me 🧔🏽
 
-💻☕ Currently working as a Java developer for a multinational insurance company  
+💻☕ Currently working as a full-stack developer for a multinational insurance company  
 🤓 Always looking to learn new things and participate in cool projects!  
 📍 Based in Barcelona, Spain  
 📖🎧 Also a translator and conference interpreter  
